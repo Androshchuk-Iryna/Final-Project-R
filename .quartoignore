@@ -1,0 +1,5 @@
+*.parquet
+fhvhv_tripdata_2024-12.parquet
+.Rproj.user
+.Rhistory
+.DS_Store
